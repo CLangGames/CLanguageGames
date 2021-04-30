@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_number.h(24,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_rnm.h(49,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_rcp.h(7,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_mjb.h(14,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_timing.h(21,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_play_yut.h(102,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_rnm.h(45): warning C4716: 'cctgame': 값을 반환해야 합니다.
+C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\CLanguageGames\game_number.h(82): warning C4716: 'gnumber': 값을 반환해야 합니다.
+  CLanguageGames.vcxproj -> C:\Users\gin71\Desktop\project\CLanguageGames\CLanguageGames\x64\Debug\CLanguageGames.exe
